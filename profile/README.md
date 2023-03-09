@@ -1,2 +1,2 @@
 # Talktopia
-Talktopia is a clone of Reddit
+Talktopia is a FOSS clone of Reddit!
